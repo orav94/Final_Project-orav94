@@ -1,0 +1,5 @@
+In the classification part I removed all the graphs as it took a lot of pages.
+The sequence for reading is as numbered (eda -> classification, and number 3
+is the whole project knitted together.
+
+Ori
